@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "styles.css"?>
+<Records>
+    <Song>
+        <Artist>Drake</Artist>
+        <Title>Champagne Poetry</Title>
+        <Genre>Rap</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Drake</Artist>
+        <Title>Papi's Home</Title>
+        <Genre>Rap</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Drake</Artist>
+        <Title>N 2 Deep</Title>
+        <Genre>Rap</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Kanye West</Artist>
+        <Title>Jail</Title>
+        <Genre>Hip-Hop</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Kanye West</Artist>
+        <Title>Hurricane</Title>
+        <Genre>Hip-Hop</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Frank Ocean</Artist>
+        <Title>Nikes</Title>
+        <Genre>Pop</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Frank Ocean</Artist>
+        <Title>Pink + White</Title>
+        <Genre>Pop</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Frank Ocean</Artist>
+        <Title>Self Control</Title>
+        <Genre>Pop</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Frank Ocean</Artist>
+        <Title>Nights</Title>
+        <Genre>Pop</Genre>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Artist>Frank Ocean</Artist>
+        <Title>White Ferrari</Title>
+        <Genre>Pop</Genre>
+        <Year>2021</Year>
+    </Song>
+</Records>

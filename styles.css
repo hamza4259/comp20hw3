@@ -1,0 +1,14 @@
+
+Records {
+     color: white;
+     background-color : rgb(248, 15, 15);
+     width: 100%;
+}
+
+Artist, Title, Genre, Year {
+     display : block;
+}
+Artist {
+     font-size : 25px;
+     font-weight : bold;
+}
